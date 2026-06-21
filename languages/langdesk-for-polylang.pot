@@ -1,0 +1,43 @@
+# Copyright (C) 2026 Wolinka
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: LangDesk: Translation Roles for Polylang 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/langdesk-for-polylang\n"
+"Language-Team: Wolinka <selam@wolinka.com.tr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-06-20T20:00:00+00:00\n"
+"X-Generator: manual (regenerate with: wp i18n make-pot . languages/langdesk-for-polylang.pot)\n"
+"X-Domain: langdesk-for-polylang\n"
+
+#: includes/class-langdesk.php:61
+msgid "LangDesk requires Polylang to be installed and active. Language restrictions are currently disabled."
+msgstr ""
+
+#: includes/class-langdesk-assignment.php:79
+msgid "LangDesk: Translation Languages"
+msgstr ""
+
+#: includes/class-langdesk-assignment.php:82
+msgid "This user can manage the whole site, so LangDesk does not restrict them by language. To enforce a language, give them a role such as Editor, Author or Contributor instead of Administrator."
+msgstr ""
+
+#: includes/class-langdesk-assignment.php:87
+msgid "Allowed languages"
+msgstr ""
+
+#: includes/class-langdesk-assignment.php:101
+msgid "Leave empty for an unrestricted user. When at least one language is selected, this user can only edit content in those languages (site managers are never restricted)."
+msgstr ""
+
+#. translators: %s is a language name.
+#: includes/class-langdesk-workspace.php
+msgid "To translate into %s"
+msgstr ""
+
+#. translators: %s is a language name.
+#: includes/class-langdesk-workspace.php
+msgid "All in %s"
+msgstr ""
