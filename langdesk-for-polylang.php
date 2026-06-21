@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       LangDesk: Translation Roles for Polylang
- * Plugin URI:        https://wolinka.com.tr/plugins/langdesk-for-polylang/
+ * Plugin URI:        https://github.com/wolinka/langdesk-for-polylang
  * Description:       Assign languages to editors so each translator works only in their own language, with a clean to-translate queue. Built for Polylang.
  * Version:           1.0.0
  * Requires at least: 6.0
