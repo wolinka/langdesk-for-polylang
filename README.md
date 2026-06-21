@@ -1,3 +1,7 @@
+🇬🇧 **English** | 🇹🇷 [Türkçe](README-tr.md)
+
+---
+
 # LangDesk: Translation Roles for Polylang
 
 Assign languages to WordPress users so each translator edits content **only in
@@ -84,7 +88,7 @@ issue to discuss it.
 
 GPL-2.0-or-later. See [LICENSE](LICENSE).
 
-## Credits
+---
 
-Built and maintained by [Wolinka](https://wolinka.com.tr): WordPress performance,
-security and technical consultancy.
+Built by [Özlem Çimen](https://www.linkedin.com/in/ozlemcimen/). Enterprise
+WordPress consulting at [Wolinka](https://wolinka.com.tr).
