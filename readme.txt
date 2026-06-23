@@ -4,7 +4,7 @@ Tags:              polylang, multilingual, translation, user roles, capabilities
 Requires at least: 6.0
 Tested up to:      7.0
 Requires PHP:      7.4
-Stable tag:        1.0.0
+Stable tag:        1.0.1
 License:           GPLv2 or later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,9 +31,6 @@ from it.
 
 Requires the free [Polylang](https://wordpress.org/plugins/polylang/) plugin.
 
-LangDesk is fully free, with no paywalled features. It is built and maintained by
-[Wolinka](https://wolinka.com.tr).
-
 == Installation ==
 
 1. Install and activate Polylang, and configure your languages.
@@ -50,7 +47,7 @@ language.
 
 = Does it work with the free Polylang or only Polylang Pro? =
 
-It works with the free Polylang. LangDesk relies only on Polylang's public API.
+It works with both the free Polylang and Polylang Pro.
 
 = What happens to a user with no language assigned? =
 
@@ -77,11 +74,18 @@ translator a role such as Editor, Author or Contributor instead of Administrator
 
 == Changelog ==
 
+= 1.0.1 =
+* Documentation only: clarified that the plugin works with both the free Polylang
+  and Polylang Pro, and tidied the readme. No functional changes.
+
 = 1.0.0 =
 * Initial release: per-language edit restriction, user language assignment,
   to-translate queue.
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+Documentation update only; no functional changes.
 
 = 1.0.0 =
 Initial release.

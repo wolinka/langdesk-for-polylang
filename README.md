@@ -69,7 +69,7 @@ tracking.
 ## Frequently asked questions
 
 **Does it need Polylang Pro?**
-No. LangDesk works with the free Polylang and uses only its public API.
+No. It works with both the free Polylang and Polylang Pro.
 
 **Can a translator still see the source content?**
 Yes. Reading is never blocked; only writing other languages is.

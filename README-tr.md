@@ -71,8 +71,7 @@ takip yok.
 ## ❓ Sık Sorulan Sorular
 
 **Polylang Pro gerekir mi?**
-Hayır. LangDesk ücretsiz Polylang ile çalışır ve yalnızca onun açık API'sini
-kullanır.
+Hayır. Hem ücretsiz Polylang hem de Polylang Pro ile çalışır.
 
 **Çevirmen kaynak içeriği yine de görebilir mi?**
 Evet. Okuma asla engellenmez; yalnızca diğer dilleri yazmak engellenir.
